@@ -3,10 +3,54 @@ table, td, th {
 }
 
 table {
-  border-collapse: collapse;
+ 
   width: 50%;
+  margin-right:auto;
+  text-align: center;
+  color: white;
+  background-color:#f59499ea;
+  margin: auto;
+  font-size: 20px;
+  border-color: white;
 }
 
 th {
   text-align: left;
 }
+
+h1{
+  color: #851511;
+   font-family: 'Great Vibes', cursive;
+   text-align: center;
+   
+}
+
+body{
+  background-image: url('./end.jpg');
+  background-repeat: no-repeat;
+  font-family: 'Great Vibes', cursive;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  
+}
+
+button {
+  background-color:  rgb(102, 0, 0);
+  color: #ffff;
+  border-radius: 10px;
+
+}
+
+
+
+
+footer {
+  background-color:  rgba(253, 179, 69, 0.856);
+  color:white;
+  padding: 4px;
+  text-align: center;
+  width: 100%;
+}
+
+
